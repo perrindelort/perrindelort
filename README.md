@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antoine PERRIN--DELORT</h1>
-<h3 align="center">A Data Scientist student at ITM ATLANTIQUE</h3>
+<h3 align="center">A Data Scientist student at IMT ATLANTIQUE</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=perrindelort&label=Profile%20views&color=0e75b6&style=flat" alt="perrindelort" /> </p>
 
