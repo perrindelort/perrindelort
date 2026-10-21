@@ -7,9 +7,6 @@
 
 - 🌱 I’m currently improving my skills in **Computer Vision & NLP**
 
-- 📫 How to reach me **antoine.perrin-delort@imt-atlantique.net**
-
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
